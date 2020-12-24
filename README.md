@@ -1,7 +1,13 @@
 # nbaplayers
 
-A new Flutter project.
+A simple app that consumes NBA API data.
 
+## API
+
+https://www.balldontlie.io/#introduction
+
+## Requirements
+- IDE with Flutter SKD installed
 ## Getting Started
 
 This project is a starting point for a Flutter application.
