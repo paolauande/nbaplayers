@@ -13,7 +13,7 @@ class NbaAPI {
       url = url + "&page=" + teams.nextPage.toString();
     }
 
-    var response = await http.get(url);
+    var response = await http.get(url);  
     if (response.statusCode == 200) {
       Map mapResponse = json.decode(response.body);
 
